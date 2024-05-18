@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://yuwan.org.edu.kg</id>
+    <title>Black</title>
+    <updated>2024-05-18T08:28:27.487Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://yuwan.org.edu.kg"/>
+    <link rel="self" href="http://yuwan.org.edu.kg/atom.xml"/>
+    <subtitle>记录个人日常多彩生活</subtitle>
+    <logo>http://yuwan.org.edu.kg/images/avatar.png</logo>
+    <icon>http://yuwan.org.edu.kg/favicon.ico</icon>
+    <rights>All rights reserved 2024, Black</rights>
+    <entry>
+        <title type="html"><![CDATA[qe]]></title>
+        <id>http://yuwan.org.edu.kg/_V52qRLeJ/</id>
+        <link href="http://yuwan.org.edu.kg/_V52qRLeJ/">
+        </link>
+        <updated>2024-05-18T08:24:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>http://yuwan.org.edu.kg/hello-gridea/</id>
+        <link href="http://yuwan.org.edu.kg/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
